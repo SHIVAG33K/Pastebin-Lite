@@ -13,6 +13,8 @@ Get the upstash server from here https://upstash.com/
 ## create .env
 
 UPSTASH_REDIS_REST_URL=...
+
+
 UPSTASH_REDIS_REST_TOKEN=...
 
 
