@@ -44,6 +44,7 @@ export default async function PastePage({
           background: "#f4f4f4",
           padding: "1rem",
           borderRadius: "4px",
+          color: "#000",
         }}
       >
         {paste.content}
